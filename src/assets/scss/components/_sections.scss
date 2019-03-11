@@ -1,0 +1,24 @@
+.quiz-test{
+  margin: 10rem 0px;
+  background: greenyellow;
+  color: #000;
+  padding-left: 3.5rem;
+  #question{
+    ul{
+      padding-left: 0px;
+      li{
+        list-style: none;
+      }
+    }
+  }
+  .button{
+    a{
+      background: #000;
+      color: #fff;
+      text-align: center;
+      padding: 10px 15px;
+    }
+   margin: 30px 0px;
+  }
+}
+
